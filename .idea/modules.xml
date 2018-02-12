@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysListsStructuredData.iml" filepath="$PROJECT_DIR$/ArraysListsStructuredData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MOOCTextEditor/MOOCTextEditor.iml" filepath="$PROJECT_DIR$/MOOCTextEditor/MOOCTextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCSDGraphs/UCSDGraphs.iml" filepath="$PROJECT_DIR$/UCSDGraphs/UCSDGraphs.iml" />
+    </modules>
+  </component>
+</project>
